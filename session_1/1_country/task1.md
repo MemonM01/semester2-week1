@@ -1,5 +1,10 @@
 # Task 1
 
+-- Instructions for students:
+-- 1. Open SQLite in terminal: sqlite3 countries.db
+-- 2. Load this script: .read example.sql
+-- 3. Exit SQLite: .exit
+
 ## Exercises
 1. Retrieve all data from the countries table.
 2. Select only the Country and Population columns.
@@ -11,6 +16,7 @@
 8. Find countries with names starting with 'A'.
 9. Find countries with "United" in their name.
 10. Find countries where the birthrate is higher than the death rate AND the population is over 50 million.
+
 
 ## Diagram
 
